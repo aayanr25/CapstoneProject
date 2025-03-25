@@ -7,32 +7,28 @@ import TestimonialCard from './TestimonialCard';
 
 const customers = [
   {
-    fullName: 'Maria Sanchez',
+    fullName: 'Trae Young',
     image: customer1Image,
     rating: [1, 1, 1, 1, 0.5],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `Little Lemon is an absolute gem! The food is insanely good—bursting with fresh, bold flavors that hit you like a Mediterranean dream. Can’t recommend it enough! `,
   },
   {
-    fullName: 'Antony Clifton',
+    fullName: 'Lebron James',
     image: customer2Image,
     rating: [1, 1, 1, 1, 1],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `HOLY. FREAKING. WOW. Little Lemon just blew my taste buds out of the water! This place is an absolute culinary MASTERPIECE.  `,
   },
   {
-    fullName: 'Tamika Jackson',
+    fullName: 'Clayton Kershaw',
     image: customer3Image,
     rating: [1, 1, 1, 1, 0.5],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `Little Lemon is a fantastic spot for delicious Mediterranean fare. The flavors are fresh, vibrant, and incredibly satisfying. `,
   },
   {
-    fullName: 'Brandon Ming',
+    fullName: 'Cam Thomas',
     image: customer4Image,
     rating: [1, 1, 1, 1],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `It was good.`,
   },
 ];
 
