@@ -11,16 +11,13 @@ const meals = [
     name: 'Greek Salad',
     image: greekSaladImage,
     price: '$12.99',
-    description: `The famous greek salad of crispy lettuce, peppers, olives and 
-      our Chicago style feta cheese, garnished with crunchy garlic and rosemary 
-      croutons.`,
+    description: `Our famous Greek salad’s got crispy lettuce, peppers, olives, and our Chicago-style feta cheese, topped off with crunchy garlic and rosemary croutons.`,
   },
   {
     name: 'Bruschetta',
     image: bruschettaImage,
     price: '$5.99',
-    description: `Our Bruschetta is made from grilled bread that has been 
-      smeared with garlic and seasoned with salt and olive oil.`,
+    description: `Our bruschetta’s made with grilled bread, slathered with garlic, and seasoned with a pinch of salt and a drizzle of olive oil.`,
   },
   {
     name: 'Lemon Dessert',
